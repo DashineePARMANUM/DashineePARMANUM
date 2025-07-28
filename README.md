@@ -1,6 +1,6 @@
 ## About Me 😄
 
-Hello! I’m Dashinee Parmanum, a Statistics undergraduate at the University of Ottawa, graduating in June 2026. Currently, I've been working in IT support at my university since June 2023, strengthening my customer service and problem-solving skills which help me stay calm and effective under pressure. I’m eager to transition into a full-time data role after graduation.
+Hello! I’m Dashinee Parmanum, a Statistics undergraduate at the University of Ottawa, graduating in June 2026. Since June 2023, I have been working in IT support at my university, strengthening my customer service and problem-solving skills that help me stay calm and effective under pressure. I’m eager to transition into a full-time data role after graduation.
 
 My technical skills include Python, R, and SQL, complemented by a strong math background. My [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) repository showcases self-directed projects where I apply Excel, SQL, Power BI, R, and Python to solve data problems.
 
