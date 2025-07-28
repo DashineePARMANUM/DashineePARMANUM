@@ -10,8 +10,8 @@ Outside of work and studies, I practiced taekwondo 🥋 for eight years and enjo
 - LinkedIn: [dashinee-parmanum](https://www.linkedin.com/in/dashinee-parmanum/)
 
 **Skills:**  
-- :computer: Programming: Python, R, SQL
+- :computer: Programming: Python, R, SQL  
 - :bar_chart: Data Analysis & Visualization: Excel, Power BI, R, Python  
-- ➗ Strong math foundation   
+- ➗ Strong math foundation  
 - 💻 IT support & customer service  
 - 🧠 Communication & problem-solving 
