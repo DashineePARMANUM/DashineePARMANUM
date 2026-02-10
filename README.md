@@ -8,8 +8,7 @@ My technical skills include Python, R, Excel, Power BI, and SQL, complemented by
 My [Data_Projects_Portfolio](https://github.com/DashineePARMANUM/Data_Projects_Portfolio) repository showcases a mix of coursework-based and self-directed projects to apply my learning to real-world problems and sharpen industry-relevant skills.
 
 Outside of work and studies, I practiced taekwondo 🥋 for eight years and enjoy reading 📚 as well as thrill-seeking activities like roller coasters 🎢.
-
-- GitHub: [DashineePARMANUM](https://github.com/DashineePARMANUM)  
+ 
 - LinkedIn: [dashinee-parmanum](https://www.linkedin.com/in/dashinee-parmanum/)
 
 **Skills:**  
