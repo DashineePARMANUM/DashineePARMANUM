@@ -1,6 +1,6 @@
 ## About Me 😄
 
-Hello! I’m Dashinee Parmanum, a bilingual (French and English) Statistics undergraduate at the University of Ottawa, graduating this year. 
+Hello! I’m Dashinee Parmanum, a bilingual (French and English) Statistics undergraduate student at the University of Ottawa, graduating this year. 
 
 Since June 2023, I have been working in IT support at my university, strengthening my customer service and problem-solving skills that help me stay calm and effective under pressure. I’m eager to transition into a full-time data role after graduation.
 
