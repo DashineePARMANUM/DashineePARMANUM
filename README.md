@@ -6,10 +6,9 @@ Since June 2023, I have been working in IT support at my university, strengtheni
 
 My technical skills include Python, R, Excel, Power BI, and SQL, complemented by a strong math background. 
 My [Data_Projects_Portfolio](https://github.com/DashineePARMANUM/Data_Projects_Portfolio) repository showcases a mix of coursework-based and self-directed projects to apply my learning to real-world problems and sharpen industry-relevant skills.
+A couple group projects didn’t go on GitHub, so check my LinkedIn ([dashinee-parmanum](https://www.linkedin.com/in/dashinee-parmanum/)) profile for those + extra details / certifications.
 
 Outside of work and studies, I practiced taekwondo 🥋 for eight years and enjoy reading 📚 as well as thrill-seeking activities like roller coasters 🎢.
- 
-- LinkedIn: [dashinee-parmanum](https://www.linkedin.com/in/dashinee-parmanum/)
 
 **Skills:**  
 :computer: Programming: Python, R, SQL  
